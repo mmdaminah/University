@@ -1,8 +1,9 @@
-<h1>Data Structures</h1>
+<h1>Data Structures in C</h1>
 <ul>
   <li>Linked List</li>
   <li>Queue
     <ul>
+      <li>Linear queue</li>
       <li>Circular queue</li>
       <li>Priority queue</li>
     </ul>
